@@ -137,9 +137,9 @@
 .btn:hover,
 .btn:focus {
   box-shadow: none;
-  background: #595757;
+  background: linear-gradient(skyblue,yellow);
   color: #fff;
-  transition: background-color .2s linear;
+  transition: background-color .8s linear;
 	text-decoration:none;
 }
 .btn:active {
