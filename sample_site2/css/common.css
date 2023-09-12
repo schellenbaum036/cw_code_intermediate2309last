@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .wrapper1000 {
-	width:1000px;
+	width:100%;
 	margin:0 auto;
 	text-align:left;
 }
@@ -48,18 +48,18 @@
 	letter-spacing: normal;
 }
 .mainBlock .col2 {
-	width: 475px;
-	margin-right: 50px;
+	width: 47.5%;
+	margin-right: 5%;
 	float:left;
 }
 .mainBlock .col3 {
-	width: 300px;
-	margin-right: 50px;
+	width: 30%;
+	margin-right: 5%;
 	float:left;
 }
 .mainBlock .col4 {
-	width: 220px;
-	margin-right: 40px;
+	width: 22%;
+	margin-right: 4%;
 	float:left;
 }
 .mainBlock .box.last {
