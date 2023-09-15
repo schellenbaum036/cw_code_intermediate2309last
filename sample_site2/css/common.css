@@ -138,9 +138,9 @@
 .btn:hover,
 .btn:focus {
   box-shadow: none;
-  background: linear-gradient(skyblue,yellow);
+  background: linear-gradient(green,yellow);
   color: #fff;
-  transition: background-color .8s linear;
+  transition: background-color .1s linear;
 	text-decoration:none;
 }
 .btn:active {
