@@ -140,8 +140,8 @@
   box-shadow: none;
   background: linear-gradient(green,yellow);
   color: #fff;
-  transition: background-color .1s linear;
-	text-decoration:none;
+  transition: background-color .3s linear;
+	text-decoration: none;
 }
 .btn:active {
   background: #262424;
