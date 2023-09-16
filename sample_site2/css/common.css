@@ -10,7 +10,7 @@
 	margin-bottom: 35px;
 }
 #header p {
-	float: left;
+	/* float: left; */
 }
 #header #nav {
 	float: right;

@@ -1,11 +1,11 @@
 @charset "utf-8";
 
 /* For modern browsers */
-.cf:before,
+/* .cf:before,
 .cf:after {
     content:"";
     display:table;
-}
+} */
  
 .cf:after {
     clear:both;
