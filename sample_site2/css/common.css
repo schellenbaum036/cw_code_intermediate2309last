@@ -57,7 +57,7 @@
 }
 .mainBlock .col3 {
 	width: 30%;
-	margin-right: 5%;
+	/* margin-right: 5%; */
 	float:left;
 }
 .mainBlock .col4 {
@@ -209,6 +209,11 @@
 
 .mainBlock .flex-container .box{
 	background-color: #ddd;
+}
+
+.flex-container{
+	display: flex;
+	justify-content: space-between;
 }
 
 .mainBlock .news {
