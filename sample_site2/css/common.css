@@ -206,6 +206,11 @@
 	margin-bottom: 30px;
 	line-height: 170%;
 }
+
+.mainBlock .flex-container .bpx{
+	background-color: #ddd;
+}
+
 .mainBlock .news {
 	margin: 40px;
 }
