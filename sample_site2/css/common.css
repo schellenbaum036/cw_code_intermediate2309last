@@ -76,6 +76,7 @@
 	font-size: 24px;
 	margin: 20px 0 20px;
 	line-height: 150%;
+	padding: 0 10px;
 }
 .mainBlock.color1 {
 	background: #eee;
@@ -94,6 +95,7 @@
 	color: #666;
 	margin-bottom: 15px;
 	text-align: justify;
+	padding: 0 10px;
 }
 #footer {
 	text-align: left;
@@ -200,6 +202,7 @@
 }
 .mainBlock p.image1 {
 	text-align: center;
+	padding: 0;
 }
 .lead {
 	font-size: 120%;
@@ -207,9 +210,9 @@
 	line-height: 170%;
 }
 
-.mainBlock .flex-container .box{
+/* .mainBlock .flex-container .box{
 	background-color: #ddd;
-}
+} */
 
 .flex-container{
 	display: flex;
