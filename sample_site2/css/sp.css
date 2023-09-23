@@ -1,5 +1,5 @@
 @media screen and (max-width:768px){
-    
+
     .wrapper1000{
         width: 100%;
     }
@@ -7,4 +7,15 @@
     #header{
         display: block;
     }
+
+    #header #nav{
+        margin-top: 0;
+    }
+
+    #header #nav ul li{
+        border-right: none;
+        padding: 0.2%;
+        width: 29%;
+    }
+
 }
