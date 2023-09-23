@@ -18,4 +18,9 @@
         width: 29%;
     }
 
+    .flex-container{
+        display: block;
+    }
+    
+
 }
