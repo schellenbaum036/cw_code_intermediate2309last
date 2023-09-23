@@ -2,4 +2,8 @@
     .wrapper1000{
         width: 100%;
     }
+
+    #header{
+        display: block;
+    }
 }
