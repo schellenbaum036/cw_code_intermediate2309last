@@ -23,5 +23,20 @@
         background-color: red;
     }
     
+    .mainBlock .col3{
+        width: 90%;
+        margin: 0 auto 20px;
+        padding-bottom: 15px;
+    }
 
+    .mainBlock .box .last{
+        margin-right: auto;
+    }
+
+    .mainBlock .col4{
+        width: 50%;
+        margin: 0 0 20px;
+    }
+
+    
 }
