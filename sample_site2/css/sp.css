@@ -6,6 +6,12 @@
 
     #header{
         display: block;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    #header p{
+        margin-left: 2%;
     }
 
     #header #nav{
@@ -38,5 +44,39 @@
         margin: 0 0 20px;
     }
 
-    
+    .mainvisual h1{
+        font-size: 22px;
+        padding: 20px 20px 0;
+    }
+
+    .mainBlock h2{
+        font-size: 22px;
+        margin-bottom: 30px;
+        padding: 20px 0px;
+    }
+
+    .mainBlock .box p{
+        margin-bottom: 0;
+    }
+
+    .mainBlock .box h3{
+        font-size: 18px;
+        margin: 0;
+    }
+
+    .btn-width{
+        width: 80%;
+        font-size: 18px;
+        margin-top: 30px;
+    }
+
+    .mainBlock .news{
+        margin: 20px 5%;
+    }
+
+    #footer{
+        padding: 0.2%;
+    }
+
+
 }
