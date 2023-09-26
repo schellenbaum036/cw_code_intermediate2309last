@@ -17,13 +17,19 @@ $(function(){
         });
         }return false;    
     });
-    
-    $('.slick01').slick({ dots: true,
-        speed: 1000, autoplay: true,
-        centerMode: true, centerPadding:
-        '15%', responsive: [ {
+
+    $('.slick01').slick({ 
+        dots: true,
+        speed: 1000, 
+        autoplay: true,
+        centerMode: true, 
+        centerPadding:'15%',
+        responsive: [ {
         breakpoint: 768, settings: {
-        centerPadding: '0', }, },
-        ],});
+        centerPadding: '0', 
+        }, 
+        },
+        ],
+    });
 
 });
