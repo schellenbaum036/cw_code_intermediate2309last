@@ -260,3 +260,18 @@ box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
 .btn-trigger{
 	display: none;
 }
+
+#mainslide .slick-slide img {
+	width: 100%;	
+	height: auto;
+}
+	
+#mainslide .slick-next {	
+	right: 10px;
+	z-index: 1;
+}
+	
+#mainslide .slick-prev {	
+	left: 10px;	
+	z-index: 1;
+}
