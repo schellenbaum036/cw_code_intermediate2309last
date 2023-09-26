@@ -21,7 +21,8 @@
     #header #nav ul li{
         border-right: none;
         padding: 0.2%;
-        width: 29%;
+        float: none;
+        margin-bottom: 40px;
     }
 
     .flex-container{
@@ -139,6 +140,24 @@
         transform: translateY(-12px) rotate(45deg);
     }
     
-
+    #header #nav {
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        visibility: hidden;
+        opacity: 0;
+        transition:0.5s;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding-top: 80px;
+    }
+        
+    #header #nav ul li a {
+        font-size: 20px;
+        color: #fff;
+    }
+    
 
 }
