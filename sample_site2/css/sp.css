@@ -27,7 +27,6 @@
 
     .flex-container{
         display: block;
-        background-color: red;
     }
     
     .mainBlock .col3{
@@ -36,7 +35,7 @@
         padding-bottom: 15px;
     }
 
-    .mainBlock .box .last{
+    .mainBlock .box.last {
         margin-right: auto;
     }
 
@@ -158,6 +157,16 @@
         font-size: 20px;
         color: #fff;
     }
+
+    .image1{
+        display: none;
+    }
+    .image2{
+        display: grid;
+        place-items: center;
+    }
+
+
     
 
 }

@@ -215,7 +215,6 @@
 } */
 
 .flex-container{
-	background-color: blue;
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
@@ -274,4 +273,11 @@ box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
 #mainslide .slick-prev {	
 	left: 10px;	
 	z-index: 1;
+}
+
+.image1{
+	display: block;
+}
+.image2{
+	display: none;
 }
